@@ -1,0 +1,36 @@
+body {
+    background-color: #FEF0E5;
+    font-family: "Appercu", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: #5C4033;
+}
+
+.main {
+    width: auto;
+    height: 500px;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.recipe {
+    text-align: center;
+    font-family: Helvetica, Arial, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.recipe-pic {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
