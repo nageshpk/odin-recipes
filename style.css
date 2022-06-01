@@ -11,13 +11,12 @@ h1 {
     color: #f6c453;
 }
 
-p {
-    color: #183a1d
-}
-
 .main {
-    width: auto;
     height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 img {
