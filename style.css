@@ -31,7 +31,10 @@ img {
 }
 
 .recipe-pic {
-    display: inline-block;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px;
 }
 
 ul {
