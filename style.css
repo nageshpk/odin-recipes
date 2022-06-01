@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     font-size: 50px;
     font-weight: bolder;
-    color: #f6c453;
+    color: #f0a04b;
 }
 
 .main {
@@ -37,4 +37,9 @@ img {
 
 ul {
     list-style-type: none;
+}
+
+#para {
+    text-align: center;
+    font-size: 30px;
 }
