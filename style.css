@@ -35,6 +35,8 @@ img {
     margin-right: auto;
     margin-left: auto;
     padding: 20px;
+    width: 500px;
+    height: 500px;
 }
 
 ul {
